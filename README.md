@@ -1,9 +1,9 @@
 ![EcoEarth](https://i.imgur.com/mZUFdKB.jpg)
 
-<H3>Game Design Documentation</H1>
-<H4>Version 2.0
+<h3>Game Design Documentation</h3>
+<h4>Version 2.0
 </br>Produced by: Rebecca Nash
-</br>29-10-17</H4>
+</br>29-10-17</h4>
 
 <h4>Contents</h4>
 <ol>
@@ -19,7 +19,7 @@
 
 </br></br>
 
-<h4><div id="history"><DESIGN HISTORY</h4>
+<div><div id="history"><h4><DESIGN HISTORY</h4>
 
 25-10-17
 Initial design document created.
@@ -46,12 +46,12 @@ Interactive, educational puzzle game.
 
 VI. Features
 
-•	2D game
-•	Team play
-•	Visual feedback
-•	Educational
-•	Interactive
-•	Real-time in-game updates
+<li>2D game</li>
+<li>Team play</li>
+<li>Visual feedback</li>
+<li>Educational</li>
+<li>Interactive</li>
+<li>Real-time in-game updates</li>
 
 V. Platform
 
@@ -64,6 +64,7 @@ The intended audience of this game is for casual or non-gamers of both genders f
 VII. Language
 
 The game will only be in English.
+
 VIII. Sound Consideration
 
 The game play experience is not dependant on sound and as such the game does not require speakers of any kind.
@@ -80,6 +81,59 @@ Production and disposal of mobile phones, beef, leaving electronic devices on st
 II. Story Synopsis
 
 The story relates the greenhouse gas footprint chain of production to disposal of four products to four habitats from around the world. At each stage of the chain, players are presented with a fact and relevant image, and the responsibility to release the emitted gases into the atmosphere. Upon release, the habitat view becomes darker and bleaker as the on-screen greenhouse gas meter rises. An animal narrator for each habitat describes the impact the gases are having on the habitat and once the chain journey is completed, they return to ask for help saving their home giving the players the option to provide select a predefined pledge to help, or not. Players who pledge will witness the on-screen pledge meter rising, which will impact their overall score at the end of the game.
+
+III. Cut Scene Screens
+
+Splash Screen
+![Splash](https://i.imgur.com/dOuCeWs.png)</br>
+Loading screen.
+
+Rotate Window
+![Splash](https://i.imgur.com/dOuCeWs.png)</br>
+Window that will display if/when iPad is put into a portrait position.
+
+
+Login Window
+Players are requested to create and input a team name. A team name accommodates any number of players to one iPad.
+
+World View
+The chosen team name, score, a pledge meter and a greenhouse gas meter display on screen. All four habitats are unlocked and ready for selection by touch.
+
+Chain View Introduction
+Players are provided with an introductory text for each habitat to provide an understanding of how the habitat links to its product.
+
+Chain View Incomplete
+Each habitat opens with an incomplete, unexplored chain. Players are directed on where to click by the visual aid of an unlocked padlock display. 
+
+Chain Fact
+Each chain element displays a pop-up with each chain stage, a representative image and a slider for players to ‘release the gases’ into the atmosphere. Where applicable, animal narrators return to provide facts.
+
+Chain Game
+Players are requested to select three animals who live in their playing habitat from a pack of nine animals. Four games are presented to players throughout each of the four chains.
+
+Chain View in Progress
+The greenhouse gas meter rises, and the habitat view becomes darker and darker as each chain journey progresses. Animal narrators return to provide updates on the effects the greenhouse gases are having on the habitat
+
+Chain View Complete
+The view of a completed chain.
+
+Question Window
+After each chain is completed, players are required to answer four questions based on their learning of the chain journey that they have just completed.
+
+Help Window
+Habitat animal narrators return to ask players to help save their home, presented with a real-life image of the destruction caused.
+
+Pledge Window
+Players are asked to select one pledge out of three displayed that they promise to try and commit to in order to help save the habitat.
+
+Thank You Window
+Players are presented with their chosen pledge and thanked for their input.
+
+World View Complete
+All habitats completed and locked. Display showing game with only 3 out of 4 habitat pledges inputted.
+
+Game End Window
+Players are thanked for playing and requested to return the iPads to their group leader.
 
 <br />
 <div><div id="mechanics">
@@ -143,22 +197,22 @@ In-game HUD header font size: 60pt
 <h3>Characters</h3>
 <br />
 
-![TawnyOwl](https://i.imgur.com/ER5oRr8.png)
-Habitat: British Countryside
-Name: Olivia
-Animal: Tawny Owl
+![TawnyOwl](https://i.imgur.com/ER5oRr8.png)</br>
+Habitat: British Countryside</br>
+Name: Olivia</br>
+Animal: Tawny Owl</br>
 
-![Moose](https://i.imgur.com/hy7m5N8.png)
-Habitat: Arctic Tundra
-Name: Malcolm
-Animal: Moose
+![Moose](https://i.imgur.com/hy7m5N8.png)</br>
+Habitat: Arctic Tundra</br>
+Name: Malcolm</br>
+Animal: Moose</br>
 
-![EmeraldBoa](https://i.imgur.com/97bPamz.png)
-Habitat: Rainforest
-Name: Susan
-Animal: Emerald Tree Boa
+![EmeraldBoa](https://i.imgur.com/97bPamz.png)</br>
+Habitat: Rainforest</br>
+Name: Susan</br>
+Animal: Emerald Tree Boa</br>
 
-![RockHopper](https://i.imgur.com/iIaSp5T.png)
-Habitat: Ocean
-Name: Rocky
-Animal: Rock Hopper Penguin
+![RockHopper](https://i.imgur.com/iIaSp5T.png)</br>
+Habitat: Ocean</br>
+Name: Rocky</br>
+Animal: Rock Hopper Penguin</br>
