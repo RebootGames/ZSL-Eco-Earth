@@ -21,7 +21,10 @@
 
 </br></br>
 
-<h4><div id="history"><DESIGN HISTORY</h4>
+</br>
+<div><div id="history">
+<h3>Design History</h3>
+<br />
 
 25-10-17
 Initial design document created.
