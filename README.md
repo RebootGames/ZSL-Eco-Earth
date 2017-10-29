@@ -1,9 +1,11 @@
 ![EcoEarth](https://i.imgur.com/mZUFdKB.jpg)
 
-<h3>Game Design Documentation</h3>
+<h1>Game Design Documentation</h1>
 <h4>Version 2.0</h4>
 <h4>Produced by: Rebecca Nash</h4>
 <h4>29-10-17</h4>
+
+</br></br>
 
 <h4>Contents</h4>
 <ol>
