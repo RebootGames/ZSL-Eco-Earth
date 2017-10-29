@@ -215,22 +215,22 @@ In-game HUD header font size: 60pt
 <h1>Characters</h1>
 <br />
 
-![TawnyOwl](https://i.imgur.com/ER5oRr8.png)</br>
 # Habitat: British Countryside</br>
 Name: Olivia</br>
 Animal: Tawny Owl</br>
+![TawnyOwl](https://i.imgur.com/ER5oRr8.png)</br>
 
-![Moose](https://i.imgur.com/hy7m5N8.png)</br>
 # Habitat: Arctic Tundra</br>
 Name: Malcolm</br>
 Animal: Moose</br>
+![Moose](https://i.imgur.com/hy7m5N8.png)</br>
 
-![EmeraldBoa](https://i.imgur.com/97bPamz.png)</br>
 # Habitat: Rainforest</br>
 Name: Susan</br>
 Animal: Emerald Tree Boa</br>
+![EmeraldBoa](https://i.imgur.com/97bPamz.png)</br>
 
-![RockHopper](https://i.imgur.com/iIaSp5T.png)</br>
 # Habitat: Ocean</br>
 Name: Rocky</br>
 Animal: Rock Hopper Penguin</br>
+![RockHopper](https://i.imgur.com/iIaSp5T.png)</br>
