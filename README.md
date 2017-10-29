@@ -19,7 +19,7 @@
 
 </br></br>
 
-<div><div id="history"><h4><DESIGN HISTORY</h4>
+<div id="history"><h4><DESIGN HISTORY</h4>
 
 25-10-17
 Initial design document created.
@@ -51,7 +51,7 @@ VI. Features
 <li>Visual feedback</li>
 <li>Educational</li>
 <li>Interactive</li>
-<li>Real-time in-game updates</li>
+<li>Real-time in-game updates</li></br>
 
 V. Platform
 
@@ -89,50 +89,63 @@ Splash Screen
 Loading screen.
 
 Rotate Window
-![Splash](https://i.imgur.com/dOuCeWs.png)</br>
+![Rotate](https://i.imgur.com/4yR89Ck.png)</br>
 Window that will display if/when iPad is put into a portrait position.
 
-
 Login Window
+![Login](https://i.imgur.com/Uw8FClA.png)</br>
 Players are requested to create and input a team name. A team name accommodates any number of players to one iPad.
 
 World View
+![World](https://i.imgur.com/htk2lof.png)</br>
 The chosen team name, score, a pledge meter and a greenhouse gas meter display on screen. All four habitats are unlocked and ready for selection by touch.
 
 Chain View Introduction
+![Intro](https://i.imgur.com/23sMj5x.png)</br>
 Players are provided with an introductory text for each habitat to provide an understanding of how the habitat links to its product.
 
 Chain View Incomplete
+![Incomplete](https://i.imgur.com/vzAWR2K.png)</br>
 Each habitat opens with an incomplete, unexplored chain. Players are directed on where to click by the visual aid of an unlocked padlock display. 
 
 Chain Fact
+![Fact](https://i.imgur.com/SOoogGl.jpg)</br>
 Each chain element displays a pop-up with each chain stage, a representative image and a slider for players to ‘release the gases’ into the atmosphere. Where applicable, animal narrators return to provide facts.
 
 Chain Game
+![Game](https://i.imgur.com/7KZXUPj.jpg)</br>
 Players are requested to select three animals who live in their playing habitat from a pack of nine animals. Four games are presented to players throughout each of the four chains.
 
 Chain View in Progress
+![InProgress](https://i.imgur.com/29VCbLP.jpg)</br>
 The greenhouse gas meter rises, and the habitat view becomes darker and darker as each chain journey progresses. Animal narrators return to provide updates on the effects the greenhouse gases are having on the habitat
 
 Chain View Complete
+![Complete](https://i.imgur.com/5eRldvr.jpg)</br>
 The view of a completed chain.
 
 Question Window
+![Question](https://i.imgur.com/95SvHjZ.png)</br>
 After each chain is completed, players are required to answer four questions based on their learning of the chain journey that they have just completed.
 
 Help Window
+![Help](https://i.imgur.com/UHyLM0V.png)</br>
 Habitat animal narrators return to ask players to help save their home, presented with a real-life image of the destruction caused.
 
 Pledge Window
+![Pledge](https://i.imgur.com/3g0ePyD.png)</br>
 Players are asked to select one pledge out of three displayed that they promise to try and commit to in order to help save the habitat.
 
 Thank You Window
+![ThankYou](https://i.imgur.com/Ckt7XyF.png)</br>
 Players are presented with their chosen pledge and thanked for their input.
 
 World View Complete
+![WorldComplete](https://i.imgur.com/zDdzI1P.png)</br>
 All habitats completed and locked. Display showing game with only 3 out of 4 habitat pledges inputted.
 
 Game End Window
+![End](https://i.imgur.com/tHFxPiy.png)</br>
 Players are thanked for playing and requested to return the iPads to their group leader.
 
 <br />
