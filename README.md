@@ -15,7 +15,8 @@
   <li><a href="#mechanics">Core Game Mechanics</a></li>
   <li><a href="#flowchart">Interface Flowchart</a></li>
   <li><a href="#elements">In-Game Elements</a></li>
-  <li><a href="#characters">Characters</a></li>  
+  <li><a href="#characters">Characters</a></li>
+  <li><a href="#gametext">In-Game Text</a></li>
 </ol>
 <br />
 
@@ -234,3 +235,18 @@ Animal: Emerald Tree Boa</br>
 Name: Rocky</br>
 Animal: Rock Hopper Penguin</br>
 ![RockHopper](https://i.imgur.com/iIaSp5T.png)</br>
+
+</br>
+<div><div id="gametext">
+<h1>In-Game Text</h1>
+<br />
+
+Please download the game text doc from [here.](https://github.com/RebootGames/ZSL-Eco-Earth/blob/master/Eco%20Earth%20Game%20Text.docx)
+
+</br>
+<div><div id="assets">
+<h1>Required Assets</h1>
+<br />
+  
+Please download the required assets doc from [here.](https://github.com/RebootGames/ZSL-Eco-Earth/blob/master/Eco%20Earth%20Assets.docx)
+
