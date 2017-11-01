@@ -17,6 +17,7 @@
   <li><a href="#elements">In-Game Elements</a></li>
   <li><a href="#characters">Characters</a></li>
   <li><a href="#gametext">In-Game Text</a></li>
+  <li><a href="#assets">Required Assets</a></li>
 </ol>
 <br />
 
