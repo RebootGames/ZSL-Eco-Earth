@@ -335,7 +335,7 @@ Countryside<br>
 _"It's raining so much!"<br>
 "Our summers are getting far too hot; lots of people are getting sick."<br>
 "Sea levels have risen; our coasts are flooding! If this carries on, sea levels could rise by up to 1.9m.”<br>
-“Sea levels rising by 1m would see most of Bangladesh, Vietnam, Norway and the Maldives underwater!”-
+“Sea levels rising by 1m would see most of Bangladesh, Vietnam, Norway and the Maldives underwater!”_
 
 Ocean<br>
 _"All my friends are leaving for cooler waters, even the fish are leaving, what will I eat?"<br>
@@ -356,59 +356,59 @@ _“It’s really hot here, I need to find some shade to cool down.”<br>
 
 Countryside
 1.	What gases are released from using fertilisers?
-    a.	CORRECT: Carbon and nitrous oxide
-    b.	Carbon, nitrous oxide and methane
+    <br>a.	CORRECT: Carbon and nitrous oxide
+    <br>b.	Carbon, nitrous oxide and methane
 2.	Which of the below are examples of where water is pumped from to provide water for the cows and their growing feed?
-    a.	CORRECT: Underground rivers, reservoirs, streams and canals
-    b.	Sinks, baths and lakes
+    <br>a.	CORRECT: Underground rivers, reservoirs, streams and canals
+    <br>b.	Sinks, baths and lakes
 3.	What gas is released when grazing cows pass wind?
-    a.	CORRECT: Methane
-    b.	Carbon
+    <br>a.	CORRECT: Methane
+    <br>b.	Carbon
 4.	What is needed to power the fridges, lights and computers inside the slaughter house?
-    a.	CORRECT: Electricity
-    b.	Carbon
+    <br>a.	CORRECT: Electricity
+    <br>b.	Carbon
 
 Ocean
 1.	Name two modes of transport to get oil to the treatment plants from the oil rigs?
-    a.	CORRECT: Pipes and ships
-    b.	Aeroplanes and cars
+    <br>a.	CORRECT: Pipes and ships
+    <br>b.	Aeroplanes and cars
 2.	Where do the empty bottles get transported to?
-    a.	CORRECT: A bottling plant
-    b.	Shops and restaurants
+    <br>a.	CORRECT: A bottling plant
+    <br>b.	Shops and restaurants
 3.	What gas is released when machinery fills each bottle with drink?
-    a.	CORRECT: Carbon
-    b.	Nitrous oxide
+    <br>a.	CORRECT: Carbon
+    <br>b.	Nitrous oxide
 4.	What gas is released when plastic bottles decompose in landfills?
-    a.	CORRECT: Methane
-    b.	Carbon
+    <br>a.	CORRECT: Methane
+    <br>b.	Carbon
 
 Arctic Tundra
 1.	What's the missing word? "Carbon is released as _____ is required to clean and dry the natural gas"
-    a.	CORRECT: Electricity
-    b.	Carbon
+    <br>a.	CORRECT: Electricity
+    <br>b.	Carbon
 2.	Why does natural gas need to be odorised?
-    a.	CORRECT: In case of a gas leak, people need to be able to smell it
-    b.	Less carbon is released if the gas smells
+    <br>a.	CORRECT: In case of a gas leak, people need to be able to smell it
+    <br>b.	Less carbon is released if the gas smells
 3.	Where does the natural gas get transported to?
-    a.	CORRECT: Power stations
-    b.	Schools and colleges
+    <br>a.	CORRECT: Power stations
+    <br>b.	Schools and colleges
 4.	How much carbon is wasted per year by leaving TVs on standby?
-    a.	CORRECT: 15kg
-    b.	2kg
+    <br>a.	CORRECT: 15kg
+    <br>b.	2kg
 
 Rainforest
 1.	Where do most of the raw materials to build mobile phones come from?
-    a.	CORRECT: Rainforests
-    b.	Oceans
+    <br>a.	CORRECT: Rainforests
+    <br>b.	Oceans
 2.	Where are mobile phone raw materials transported to?
-    a.	CORRECT: China, Taiwan, Japan or Korea
-    b.	USA and the UK
+    <br>a.	CORRECT: China, Taiwan, Japan or Korea
+    <br>b.	USA and the UK
 3.	What's the missing word? " ___ is released as constructed mobile phones are transported to the phone shop"
-    a.	CORRECT: Carbon
-    b.	Electricity
+    <br>a.	CORRECT: Carbon
+    <br>b.	Electricity
 4.	True or false. Carbon is released every time a mobile phone is charged.
-    a.	CORRECT: True
-    b.	False
+    <br>a.	CORRECT: True
+    <br>b.	False
 
 # Help Window
 _“All these greenhouse gases are destroying the [INSERT HABITAT NAME]. Can you help save my home?”_<br>
